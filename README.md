@@ -2,7 +2,7 @@
 
 ## Run the app
 
-run RabbitmqApplication.class as java Application or Spring Boot application
+run RabbitmqConsumerApplication.class as java Application or Spring Boot application
 
 ## Configure and run rabbitMQ and the producer
 https://github.com/ScorprocS/rabbitmq-exchange
